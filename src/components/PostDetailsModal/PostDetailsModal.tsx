@@ -48,6 +48,7 @@ const PostDetailsModal = ({post, visible, setVisible}: PDMProps) => {
     ))}
         </Row>
     </Modal>
+    
 }
 
 export default PostDetailsModal;
